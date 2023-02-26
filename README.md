@@ -1,1 +1,1 @@
-# anything-django
+# Anything Django
